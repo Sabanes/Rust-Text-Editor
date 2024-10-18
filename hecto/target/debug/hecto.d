@@ -1,1 +1,1 @@
-/Users/sabatchkuaseli/Documents/Text\ Editor\ Rust/hecto/target/debug/hecto: /Users/sabatchkuaseli/Documents/Text\ Editor\ Rust/hecto/src/main.rs
+/Users/sabatchkuaseli/Documents/Text\ Editor\ Rust/hecto/target/debug/hecto: /Users/sabatchkuaseli/Documents/Text\ Editor\ Rust/hecto/src/editor/terminal.rs /Users/sabatchkuaseli/Documents/Text\ Editor\ Rust/hecto/src/editor.rs /Users/sabatchkuaseli/Documents/Text\ Editor\ Rust/hecto/src/main.rs
